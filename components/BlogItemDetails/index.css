@@ -1,0 +1,27 @@
+.blog-details-container {
+  width: 90%;
+  padding: 15px;
+  max-width: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-details-content {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+}
+
+.blog-details-title {
+  font-size: 30px;
+}
+
+.blog-details-image {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.blog-details-text-content {
+  color: #555555;
+}

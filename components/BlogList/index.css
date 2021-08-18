@@ -1,0 +1,13 @@
+.blog-items-container {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  width: 100%;
+}
+
+.link-item {
+  text-decoration: none;
+  color: currentcolor;
+  max-width: 1000px;
+}
